@@ -16,7 +16,7 @@ function App() {
 			<h1 className="md:text-7xl leadi text-7xl font-Ahganirya text-center">NUDE</h1>
 			<p className="mt-5 mb-8 md:text-md sm:mb-12 text-center font-Ahganirya">BEAUTY BAR</p>
 			<div className="flex flex-col  sm:items-center sm:justify-center text-center md:mt-20 mt-12">
-				<a rel="noopener noreferrer" href="https://outlook.office365.com/owa/calendar/NudeBeautyBar@bauzantech.com/bookings/" className=" ">
+				<a rel="noopener noreferrer" href="https://outlook.office365.com/owa/calendar/NudeBeautyBar@bauzantech.com/bookings/" target="_blank" >
         <button type="button" className=" bg-stone-200  rounded-lg text-xl px-7 py-5 me-2 mb-2 font-Vanilla shadow-lg ">Agendar Cita</button>
         </a>
 			</div>
@@ -36,21 +36,21 @@ function App() {
   Welcome to your Happy Place
   </h2>
   <div className='mt-15'>
-    <a href="https://instagram.com/nudebeauty.bar?igshid=OGQ5ZDc2ODk2ZA==">
+    <a href="https://instagram.com/nudebeauty.bar?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <button className='px-36 py-5 rounded-2xl shadow-lg bg-stone-200 text-xl font-Vanilla '>
       Instagram
     </button>
     </a>
   </div>
   <div className='my-10'>
-    <a href="https://maps.app.goo.gl/8ZpiX9BTwxrvPjf29?g_st=ic">
+    <a href="https://maps.app.goo.gl/8ZpiX9BTwxrvPjf29?g_st=ic" target="_blank"_>
     <button className='px-10 py-5 rounded-2xl shadow-lg bg-stone-200 text-xl font-Vanilla '>
       ¿Cómo llegar a Nude Beauty Bar?
     </button>
     </a>
   </div>
   <div className=''>
-    <a href="https://wa.me/message/JLZRSG6OKNAAD1">
+    <a href="https://wa.me/message/JLZRSG6OKNAAD1" target="_blank">
     <button className='px-36 py-5 rounded-2xl shadow-lg bg-stone-200 text-xl font-Vanilla ' >
       WhatsApp
     </button>
@@ -98,7 +98,7 @@ function App() {
             
           </div>
     </section>
-    <footer className="mt-10 rounded-lg max-h-full mt-4 sm:flex sm:flex-col sm:text-center sm:justify-between ">
+    <footer className="mt-10 rounded-lg max-h-full sm:flex sm:flex-col sm:text-center sm:justify-between ">
 		<div className="w-full max-w-screen-xl mx-auto md:py-8 lg:px-8">
 			<div className="lg:flex lg:flex-row lg:justify-between sm:flex sm:flex-row sm:justify-between flex flex-col items-center space-y-7 mt-4 md:mt-0">
 				<ul className="flex flex-wrap text-center items-center mb-6 text-xs font-semibold text-gray-500 sm:mb-0 ">
