@@ -11,10 +11,10 @@ function App() {
         <section className="flex text-center justify-center">
           <div className="container flex flex-col justify-center mx-auto sm:py-12 lg:py-12 lg:flex-row md:space-x-12 text-center">
             <div className="flex flex-col justify-center text-center rounded-sm lg:max-w-md xl:max-w-lg md:ml-5 mt-20">
-              <h1 className="md:text-9xl leadi text-7xl font-DMSerif text-center text-nude2">
+              <h1 className="md:text-9xl leadi text-9xl font-DMSerif text-center text-nude2">
                 NUDE
               </h1>
-              <p className="mt-5 mb-8 md:text-md sm:mb-12 text-center font-sans-serif text-nude2">
+              <p className="mt-0 mb-8 md:text-md text-3x1 sm:mb-12 text-center font-sans-serif text-nude2">
                 B E A U T Y . B A R
               </p>
               <div className="flex flex-col  sm:items-center sm:justify-center text-center md:mt-20 mt-12">
